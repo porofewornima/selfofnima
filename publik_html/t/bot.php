@@ -1,9 +1,9 @@
 <?php
 
 #=====[CONFIG]=====#
-$token = "1305929157:AAH-SEzF9hz7izLegOwYhX67T_SshqieMfg";  
+$token = "";  
 $remotehost = "https://github.com/porofewornima/selfofnima/tree/main/publik_html/t"; 
-$admin = "1319598578"; 
+$admin = ""; 
 #=================#
 
 #=================#
